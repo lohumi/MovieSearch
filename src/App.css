@@ -1,3 +1,29 @@
+.titleBar{
+  background-color: '#000';
+        display:'block';
+        color:'#fff';
+        font-size:24;
+        padding-left:16px
+}
+.form__button {
+  border: solid 2px #e74c3c;
+  background: transparent;
+  padding: 0.2rem 0.9rem;
+  margin: 0 0.2rem;
+  border-radius: 1px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-left: 0.7rem;
+}
+.movie__box {
+  background: #fff;
+  padding-bottom: 2rem;
+  border-radius: 5px;
+  box-shadow: -1px 2px 34px -13px rgba(0,0,0,0.75);
+  text-align: left;
+  overflow: hidden;
+}
 .App {
   text-align: center;
 }
